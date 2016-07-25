@@ -1,2 +1,2 @@
-# hello-world
-First Repository
+Hello there.
+I'm shubhank. New here so kinda exploring out.
